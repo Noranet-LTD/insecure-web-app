@@ -13,6 +13,6 @@ if(isset($_GET['doviz'])) {
 	</head>
 	<body>
 		<h3>Bilgi Portalı</h3>
-		<p><a href="rce.php?doviz=https://www.tcmb.gov.tr/wps/wcm/connect/tr/tcmb+tr/main+page+site+area/bugun">Bugünün döviz kurlarını göster</a></p>
+		<p><a href="ssrf.php?doviz=https://www.tcmb.gov.tr/wps/wcm/connect/tr/tcmb+tr/main+page+site+area/bugun">Bugünün döviz kurlarını göster</a></p>
 	</body>
 </html>
