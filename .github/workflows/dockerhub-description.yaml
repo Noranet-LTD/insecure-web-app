@@ -17,5 +17,5 @@ jobs:
         with:
           username: ${{ secrets.DOCKERHUB_USERNAME }}
           password: ${{ secrets.DOCKERHUB_PASSWORD }}
-          repository: trafex/php-nginx
+          repository: eoksum/insecure-php-app
           short-description: ${{ github.event.repository.description }}
