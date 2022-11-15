@@ -3,6 +3,7 @@
 if(isset($_GET['doviz'])) {
 	
 	echo file_get_contents($_GET['doviz']);
+}
 
 ?>
 <html>
